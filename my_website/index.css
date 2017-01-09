@@ -48,4 +48,13 @@ li {
 li:last-child {
     border-bottom: none;
 }
-
+body {
+    background-image: url("images/stars.gif");
+    background-repeat: repeat;
+    background-size: cover;
+}
+p {
+    color: white;
+    font-size: 60px;
+    font-family: Impact;
+}
